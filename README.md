@@ -143,7 +143,3 @@ The `.pbix` contains a single dashboard page, **"Online Course Analysis"**, buil
 Priyanshu Negi ,www.linkedin.com/in/
 priyanshu-negi-28880b362
 
-
-## 10. License
-
-Dataset is publicly scraped course-listing data; verify original source terms before redistribution. Project code/report © you — add a license (e.g. MIT) if open-sourcing.
