@@ -141,7 +141,9 @@ The `.pbix` contains a single dashboard page, **"Online Course Analysis"**, buil
 
 ## 9. Author / Contact
 
-Add your name, LinkedIn, and portfolio link here before publishing.
+Priyanshu Negi ,www.linkedin.com/in/
+priyanshu-negi-28880b362
+
 
 ## 10. License
 
