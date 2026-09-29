@@ -32,7 +32,6 @@ online-courses-insights/
 ├── docs/
 │   ├── README.md                   # This file — GitHub documentation
 │   ├── EDA_Report.docx             # Full structured EDA report
-│   └── Project_Presentation.pptx   # Stakeholder / viva presentation
 │
 └── charts/                          # Exported EDA visuals (PNG)
 ```
